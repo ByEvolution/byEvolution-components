@@ -13,7 +13,7 @@ yarn add byevolution
 # Usage
 
 ```bash
-byevolution
+byevolution-components
 ```
 
 # Contributing

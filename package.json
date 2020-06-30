@@ -106,10 +106,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ByEvolution/NDL-Library.git"
+    "url": "git+https://github.com/ByEvolution/byEvolution-components.git"
   },
   "bugs": {
-    "url": "https://github.com/ByEvolution/NDL-Library/issues"
+    "url": "https://github.com/ByEvolution/byEvolution-components/issues"
   },
-  "homepage": "https://github.com/ByEvolution/NDL-Library#readme"
+  "homepage": "https://github.com/ByEvolution/byEvolution-components#readme"
 }
