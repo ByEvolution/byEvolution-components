@@ -1,6 +1,6 @@
 {
   "name": "byevolution-components",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "byevolution package",
   "main": "index.js",
   "scripts": {
